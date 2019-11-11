@@ -23,6 +23,12 @@
            </intent-filter>
         </activity>
         <activity 
+            android:name="com.example.latihan101.Profil"
+            ></activity>
+        <activity 
+            android:name="com.example.latihan101.Quis"
+            ></activity>
+        <activity 
             android:name="com.example.latihan101.Quis2"
             ></activity>
         <activity 
